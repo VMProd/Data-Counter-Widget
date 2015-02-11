@@ -1,1 +1,6 @@
--testing
+What's new in v1.2
+
+- More accurate counting 1024MB = 1GB
+- Fix cycle being stuck bug
+- Ability to set data limit to any value
+- Cycle now includes daily and weekly
