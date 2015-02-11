@@ -1,3 +1,7 @@
+Current bugs/problems that will be fixed in v1.3 (release ~2/24)
+- Cycle selection always shows 1st of month when tapped by default
+- yellow color in the widget is making text unreadable
+
 What's new in v1.2
 
 - More accurate counting 1024MB = 1GB
