@@ -1,4 +1,5 @@
 Current bugs/problems that will be fixed in v1.3 (release ~2/24)
+- Daily cycle doesn't work after one day !!
 - Cycle selection always shows 1st of month when tapped by default
 - yellow color in the widget is making text unreadable
 
