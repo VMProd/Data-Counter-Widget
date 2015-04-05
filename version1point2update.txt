@@ -1,4 +1,9 @@
-Current bugs/problems that will be fixed in v1.3 (release ~2/24)
+Fixed in v1.4 (release ~4/15)
+- Add daily ideal cellular usage indicator
+- Added German language
+** for those who want different languages, you need to send me the translation file ***
+
+Fixed in v1.3 (release ~2/24)
 - Added new charting feature
 - Daily cycle doesn't work after one day !!
 - Cycle selection always shows 1st of month when tapped by default
