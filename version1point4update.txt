@@ -1,0 +1,18 @@
+
+Fixed in v1.4 (release ~4/15)
+- Add daily cellular usage projection indicator
+- Added German language
+** for those who want different languages, you need to send me the translation file ***
+
+In version 1.4, I have added a red indicator line that represents the target usage of the day. 
+The calculation is based on usage in the beginning of the day + Total amount of data left / Total days left in cycle 
+For example, as on today morning, I have used 1GB of my 2 GB data plan.
+However, I have only 10 days remaining. Therefore, my target for today is 100MB
+Indicator will show at 1.1GB.
+
+
+Fixed in v1.3 (release ~2/24)
+- Added new charting feature
+- Daily cycle doesn't work after one day !!
+- Cycle selection always shows 1st of month when tapped by default
+- yellow color in the widget is making text unreadable
